@@ -1,8 +1,8 @@
-### About Me 👋
+### About Me
 
-Hey I'm Sam Alhaqab and I'm a Typescript and React Developer. I'm all about learning new technologies in general but in my free time I love diving into the echoes of the React ecosystem. Whether it's a new state management library or a new CSS framework, I love learning it all. If that's the type of developer you're looking for, contact me at [:email: holxsam.dev@gmail.com](mailto:holxsam.dev@gmail.com).
+Hey, I'm Sam Alhaqab and I'm a Typescript and React Developer. I'm all about learning new technologies in general but in my free time I love diving into the echoes of the React ecosystem. Whether it's a new state management library or a new CSS framework, I love learning it all. If that's the type of developer you're looking for, contact me at [holxsam.dev@gmail.com](mailto:holxsam.dev@gmail.com).
 
-### Projects :memo:
+### Projects
 
 Here's a preview of some of my work.
 
