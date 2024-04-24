@@ -6,11 +6,9 @@ Hey I'm Sam and I'm a Typescript and React Developer. Take a look at some of my 
 
 Here's a preview of some of my work.
 
-## Saison Aoyama [[website]](https://saisonaoyama.vercel.app/) [[code]](https://github.com/holxsam/saisonaoyama)
-_A modern marketing website for a Japanese hair salon._
-
-https://github.com/holxsam/holxsam/assets/41220650/d0b8d814-f02f-4f90-ad6b-d23f0055183b
-
+## Palygon [[website]](https://www.palygon.com/pal/deck) WORK IN PROGRESS
+_A website dedicated to the game Palworld._
+![palygon-preview](https://github.com/holxsam/holxsam/assets/41220650/895902b5-4316-4add-8ada-461c0abea9e3)
 
 ## Yotei [[website]](https://yotei.org) [[code]](https://github.com/holxsam/yotei)
 _A web app to enhance the experience of arranging class schedules for CSULB students._
