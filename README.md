@@ -6,7 +6,7 @@ Hey I'm Sam and I'm a Typescript and React Developer. Take a look at some of my 
 
 Here's a preview of some of my work.
 
-#### Palygon [[website]](https://www.palygon.com/pal/deck) [WORK IN PROGRESS]
+#### Palygon [[website]](https://palygon.vercel.app/en/pal/deck) [WORK IN PROGRESS]
 _A website dedicated to the game Palworld._
 
 https://github.com/holxsam/holxsam/assets/41220650/02fc9eb9-7b1f-4599-be34-18cd44987672
